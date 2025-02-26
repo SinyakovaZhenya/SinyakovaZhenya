@@ -18,6 +18,4 @@ Here are some ideas to get you started:
   <h3>Я занимаюсь тестированием ПО (Manual)</h3>
 </div>
 
-<div id="socials" align="center">
-  <a href="@JenyaDev"><img src="telegram.svg" alt="Telegram"></a>
-</div>
+
