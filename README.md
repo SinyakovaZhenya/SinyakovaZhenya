@@ -19,6 +19,5 @@ Here are some ideas to get you started:
 </div>
 
 <div id="socials" align="center">
-  <a href="@JenyaDev"></a>
-  
+  <a href="@JenyaDev"><img src="./img/icons/telegram.svg" alt="Telegram"></a>
 </div>
