@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 </div>
 
 <div id="socials" align="center">
-  <a href="@JenyaDev"><img src="./img/icons/telegram.svg" alt="Telegram"></a>
+  <a href="@JenyaDev"><img src="file:///C:/Users/%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D1%8F/Desktop/Frontend22/cake/img/icons/telegram.svg" alt="Telegram"></a>
 </div>
